@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Python Developer | Django Enthusiast | Full-Stack Learner
-👨‍💻 About Me
+##Python Developer | Django Enthusiast | Full-Stack Learner
+##👨‍💻 About Me
 🔭 I’m currently learning Django and building full-stack projects
 🌱 Improving skills in Python, APIs, Databases, and Frontend
 💡 Interested in backend development and building real-world applications
