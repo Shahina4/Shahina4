@@ -42,7 +42,6 @@
 - 🛒 **E-commerce Backend** – Products, cart, user accounts (Django)  
 - 📂 **API-Based CRUD App** – DRF with permissions & token authentication  
 -->
----
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/shahina-shaik-409364250/  
