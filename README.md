@@ -36,12 +36,12 @@
 - Jupyter Notebook
   
 ---
-
+<!--
 ## 📌 Projects
 - 🏢 **Job Portal (Full Stack)** – Authentication, job posting, admin panel  
 - 🛒 **E-commerce Backend** – Products, cart, user accounts (Django)  
 - 📂 **API-Based CRUD App** – DRF with permissions & token authentication  
-
+-->
 ---
 
 ## 🌐 Connect With Me
